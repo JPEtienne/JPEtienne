@@ -20,6 +20,9 @@
 
 ##### Back-End
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=FFFFFF)
+![NESTJS](https://img.shields.io/badge/NestJS-840010?logo=nestjs&logoColor=FFFFFF)
+![EXPRESS](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=FFFFFF)
+![NODEJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=FFFFFF)
 
 ##### Other tools
 ![YARN](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=FFFFFF)
